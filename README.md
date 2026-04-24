@@ -1,9 +1,9 @@
 <h1>Hi, I'm Kendall! <br/><a href="https://github.com/KKingsS17">Cloud Identity Engineer</a>, <a href="https://www.linkedin.com/in/kreyesp/">Identity and Access Management</a></h1>
 
-<h2>Projects</h2>
+<h2>IAM Project</h2>
 
-- <b>IAM Enterprise Simulation</b>
-  - [Lifecycle Automation](https://github.com/KKingsS17/IAM-Project)
+- <b>Enterprise Simulation</b>
+  - [Identity Lifecycle Automation](https://github.com/KKingsS17/IAM-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
