@@ -2,8 +2,7 @@
 
 <h2>IAM Project</h2>
 
-- <b>Enterprise Simulation</b>
-  - [Identity Lifecycle Automation](https://github.com/KKingsS17/IAM-Project)
+- [Identity Lifecycle Automation](https://github.com/KKingsS17/IAM-Project) <b>(Joiner / Mover / Leaver)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
