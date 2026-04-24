@@ -3,7 +3,7 @@
 <h2>IAM Project</h2>
 
 - <b>IAM Enterprise Simulation</b>
-  - [Lifecycle Automation](https://github.com/KKingsS17/IAM-Project) <b><i>HR System Simulation (Joiner, Mover, Leaver)</b></i>
+  - [Lifecycle Automation](https://github.com/KKingsS17/IAM-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
