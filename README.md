@@ -1,8 +1,8 @@
-<h1>Hi, I'm Kendall! <br/><a href="https://www.linkedin.com/in/kreyesp/">Identity and Access Management Engineer</a>, <a href="https://github.com/KKingsS17">Cloud Identity Engineer</a></h1>
+<h1>Hi, I'm Kendall! <br/><a href="https://www.linkedin.com/in/kreyesp/">IAM Engineer</a>, <a href="https://github.com/KKingsS17">Cloud Identity Engineer</a></h1>
 
-<h2>IAM Project</h2>
+<h2>Identity and Access Management Project:</h2>
 
-- [Identity Lifecycle Automation](https://github.com/KKingsS17/IAM-Project) <b>(Joiner / Mover / Leaver)</b>
+- [IAM Enterprise Simulation](https://github.com/KKingsS17/IAM-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
