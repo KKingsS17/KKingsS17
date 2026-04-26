@@ -2,7 +2,7 @@
 
 <h2>Identity and Access Management Project:</h2>
 
-- [IAM Enterprise Simulation](https://github.com/KKingsS17/IAM-Project)
+- [IAM Enterprise Simulation](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
