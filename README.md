@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kendall! <br/><a href="https://www.linkedin.com/in/kreyesp/">IAM Engineer</a>, <a href="https://github.com/KKingsS17">Cloud Identity Engineer</a></h1>
+<h1>Hi, I'm Kendall! <br/><a href="https://www.linkedin.com/in/kreyesp/">IAM / M365 Engineer</a>, <a href="https://github.com/KKingsS17">Cloud Identity Engineer</a></h1>
 
 <h2>Identity and Access Management Project:</h2>
 
