@@ -9,9 +9,9 @@ Focused on Identity & Access Management, Microsoft Entra ID, Zero Trust, and IAM
 ## Featured Project
 
 ### IAM Enterprise Simulation - [View Full Project](https://github.com/KKingsS17/iam-enterprise-simulation)
-- [Module 1 - Lifecycle Automation](https://github.com/KKingsS17/iam-enterprise-simulation/tree/main/lifecycle-automation)  |  Joiner / Mover / Leaver automation 
-- [Module 2 - Access Governance](https://github.com/KKingsS17/iam-enterprise-simulation/tree/main/access-governance)  |  Access Reviews, audit reporting, Power BI 
-- [Module 3 - Access Control Models](https://github.com/KKingsS17/iam-enterprise-simulation/tree/main/access-control-models)  |  RBAC, ABAC, Dynamic Groups, Conditional Access 
+- [Module 1 - Lifecycle Automation](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/lifecycle-automation/README.md)  |  Joiner / Mover / Leaver automation 
+- [Module 2 - Access Governance](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/access-governance/README.md)  |  Access Reviews, audit reporting, Power BI 
+- [Module 3 - Access Control Models](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/access-control-models/README.md)  |  RBAC, ABAC, Dynamic Groups, Conditional Access 
 
 ---
 
