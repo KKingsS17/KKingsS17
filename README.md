@@ -1,23 +1,22 @@
-<h1>Hi, I'm Kendall! <br/><a href="https://www.linkedin.com/in/kreyesp/">IAM / M365 Engineer</a>, <a href="https://github.com/KKingsS17">Cloud Identity Engineer</a></h1>
+# Hi, I'm Kendall! 👋
 
-<h2>Identity and Access Management Project (In Progress):</h2>
+## [IAM Engineer](https://www.linkedin.com/in/kreyesp/)
 
-- [IAM Enterprise Simulation](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/README.md)
+Focused on Identity & Access Management, Microsoft Entra ID, Zero Trust, and IAM Automation.
 
-<h2> 🤳 Connect with me:</h2>
+---
+
+## Featured Project
+
+### IAM Enterprise Simulation - [View Full Project](https://github.com/KKingsS17/iam-enterprise-simulation)
+- [Module 1 - Lifecycle Automation](https://github.com/KKingsS17/iam-enterprise-simulation/tree/main/lifecycle-automation)  |  Joiner / Mover / Leaver automation 
+- [Module 2 - Access Governance](https://github.com/KKingsS17/iam-enterprise-simulation/tree/main/access-governance)  |  Access Reviews, audit reporting, Power BI 
+- [Module 3 - Access Control Models](https://github.com/KKingsS17/iam-enterprise-simulation/tree/main/access-control-models)  |  RBAC, ABAC, Dynamic Groups, Conditional Access 
+
+---
+
+## 🤳 Connect with Me
 
 [<img align="left" alt="KendallReyes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kreyesp
-
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
