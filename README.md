@@ -2,7 +2,7 @@
 
 ## [Identity & Access Management Engineer](https://www.linkedin.com/in/kreyesp/)
 
-Focused on Identity & Access Management, Microsoft Entra ID, Zero Trust, and IAM Automation.
+Focused on Microsoft Entra ID, Identity Governance, Conditional Access, Zero Trust, and IAM Automation.
 
 ---
 
