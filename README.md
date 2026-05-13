@@ -6,7 +6,7 @@ Focused on Microsoft Entra ID, Identity Governance, Conditional Access, Zero Tru
 
 ---
 
-## Featured Project
+## IAM Project
 
 ### IAM Enterprise Simulation - [View Full Project](https://github.com/KKingsS17/iam-enterprise-simulation)
 - [Module 1 - Lifecycle Automation](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/lifecycle-automation/README.md)  |  Joiner / Mover / Leaver automation 
