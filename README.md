@@ -6,9 +6,9 @@ Focused on Microsoft Entra ID, Identity Governance, Conditional Access, Zero Tru
 
 ---
 
-## IAM Project
+## IAM Enterprise Simulation - [View Full Project](https://github.com/KKingsS17/iam-enterprise-simulation)
 
-### IAM Enterprise Simulation - [View Full Project](https://github.com/KKingsS17/iam-enterprise-simulation)
+Enterprise-style IAM environment built with Microsoft Entra ID, Microsoft Graph API, and Zero Trust security principles.
 - [Module 1 - Lifecycle Automation](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/lifecycle-automation/README.md)  |  Joiner / Mover / Leaver automation 
 - [Module 2 - Access Governance](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/access-governance/README.md)  |  Access Reviews, audit reporting, Power BI 
 - [Module 3 - Access Control Models](https://github.com/KKingsS17/iam-enterprise-simulation/blob/main/access-control-models/README.md)  |  RBAC, ABAC, Dynamic Groups, Conditional Access 
