@@ -4,6 +4,11 @@
 
 Focused on Microsoft Entra ID, Identity Governance, Conditional Access, Zero Trust, and IAM Automation.
 
+![Microsoft Entra ID](https://img.shields.io/badge/EntraID-IAM-blue)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue)
+![Microsoft Graph](https://img.shields.io/badge/GraphAPI-Identity-green)
+![Zero Trust](https://img.shields.io/badge/ZeroTrust-Security-orange)
+
 ---
 
 ## IAM Enterprise Simulation - [View Full Project](https://github.com/KKingsS17/iam-enterprise-simulation)
