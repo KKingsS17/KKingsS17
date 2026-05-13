@@ -15,7 +15,7 @@ Enterprise-style IAM environment built with Microsoft Entra ID, Microsoft Graph 
 
 ---
 
-## 🤳 Connect with Me
+## Connect with Me
 
 [<img align="left" alt="KendallReyes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
