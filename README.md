@@ -1,6 +1,6 @@
 # Hi, I'm Kendall! 👋
 
-## [IAM Engineer](https://www.linkedin.com/in/kreyesp/)
+## [Identity & Access Management Engineer](https://www.linkedin.com/in/kreyesp/)
 
 Focused on Identity & Access Management, Microsoft Entra ID, Zero Trust, and IAM Automation.
 
